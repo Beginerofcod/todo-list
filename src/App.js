@@ -11,6 +11,7 @@ function App() {
       <div className="form">
         <Todoform />
         <div className="completed">
+        
       </div>
       </div>     
     </div>
