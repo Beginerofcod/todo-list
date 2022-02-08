@@ -1,0 +1,14 @@
+.todo_items {
+  text-transform: uppercase;
+  letter-spacing: 0.3ch;
+  padding: 2px;
+  font-family: "Just Another Hand", cursive;
+}
+
+li {
+  list-style-type: none;
+  margin: 1.5px;
+  padding-right: 20px;
+  padding-top: 2.5px;
+  font-size: medium;
+}

@@ -1,0 +1,22 @@
+.App {
+  position: relative;
+  text-align: center;
+}
+
+.heading_title {
+  background-color: aquamarine;
+}
+
+.form {
+  display: flex;
+}
+
+.completed {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Color_icon_white.svg/480px-Color_icon_white.svg.png");
+  border: 2px solid black;
+  display: flex;
+  width: 400px;
+  height: 700px;
+  overflow: auto;
+  background-color: blue;
+}
