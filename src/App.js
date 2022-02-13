@@ -10,9 +10,9 @@ function App() {
       </div>
       <div className="form">
         <Todoform />
-        <div className="completed">
-        hi
-      </div>
+        {/* <div className="completed">
+          
+      </div> */}
       </div>     
     </div>
   );

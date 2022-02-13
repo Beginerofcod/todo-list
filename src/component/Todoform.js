@@ -74,7 +74,7 @@ function Todoform() {
               />
             )}
             <Button onClick={() => handleremove(index)} variant="contained">
-              Delete
+              completed
             </Button>
 
             {todoedit === index ? (
@@ -86,6 +86,7 @@ function Todoform() {
                 Update
               </Button>
             )}
+           
           </div>
         ))}
       </div>
